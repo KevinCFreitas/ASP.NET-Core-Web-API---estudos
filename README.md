@@ -1,4 +1,4 @@
-# ASP.NET Core Web API - Estudos
+# API VENDAS .NET
 
 ## Sobre o Projeto
 API construída com ASP.NET Core como parte de estudos em desenvolvimento backend.
