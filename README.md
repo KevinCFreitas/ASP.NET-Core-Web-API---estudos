@@ -17,7 +17,6 @@ API construída com ASP.NET Core como parte de estudos em desenvolvimento backen
 ## Endpoints
 - GET /produtos
 - POST /clientes
-(Adicionar exemplos)
 
 ## Autor
 Kevin Clemente de Freitas
